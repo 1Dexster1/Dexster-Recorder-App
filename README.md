@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/hero.png" alt="Dexster Recorder Banner" width="800">
+  <img src=".github/hero.png" alt="Dexster Recorder Banner" width="600">
 
   # 🎮 Dexster Recorder
   **The Ultimate High-Performance Game Recording & Clipping Software**
@@ -12,10 +12,10 @@
 
 ## 🚀 لماذا تختار Dexster Recorder؟
 
-تم تصميم **Dexster Recorder** خصيصاً للاعبين المحترفين وصناع المحتوى الذين يبحثون عن أقصى أداء دون التضحية بجودة الصورة. بفضل محرك التسجيل المطور، يمكنك الآن التقاط أفضل لحظاتك بدقة فائقة وبدون أي تقطيع (0% Frames Drop).
+تم تصميم **Dexster Recorder** خصيصاً للاعبين المحترفين وصناع المحتوى الذين يبحثون عن أقصى أداء دون التضحية بجودة الصورة. بفضل محرك التسجيل المطور، يمكنك التقاط أفضل لحظاتك بدقة فائقة وبدون أي تقطيع.
 
 <div align="center">
-  <img src=".github/features.png" alt="Dexster Features" width="600">
+  <img src=".github/features.png" alt="Dexster Features" width="450">
 </div>
 
 ---
