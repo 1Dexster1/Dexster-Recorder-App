@@ -5,6 +5,7 @@
   **The Ultimate High-Performance Game Recording & Clipping Software**
 
   [![Download Latest Version](https://img.shields.io/github/v/tag/1Dexster1/Dexster-Recorder-App?label=Download%20Latest&style=for-the-badge&color=60CDFF)](https://github.com/1Dexster1/Dexster-Recorder-App/releases/latest)
+  [![Total Downloads](https://img.shields.io/github/downloads/1Dexster1/Dexster-Recorder-App/total?label=Downloads&style=for-the-badge&color=brightgreen)](https://github.com/1Dexster1/Dexster-Recorder-App/releases)
   [![Windows Standard](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/1Dexster1/Dexster-Recorder-App/releases/latest)
 </div>
 
